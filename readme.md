@@ -23,6 +23,7 @@
 - [Embedded Linux Projects Using Yocto Project Cookbook (2015)](https://www.packtpub.com/virtualization-and-cloud/embedded-linux-projects-using-yocto-project-cookbook) - 324 pages long read.
 - [Embedded Linux Systems with the Yocto Project (2016)](https://dl.acm.org/citation.cfm?id=3051933) - 480 pages long read.
 - [Learning Embedded Linux Using the Yocto Project (2015)](https://www.packtpub.com/application-development/learning-embedded-linux-using-yocto-project) - 334 pages long read.
+- [Mastering Embedded Linux Programming: Create fast and reliable embedded solutions with Linux 5.4 and the Yocto Project 3.1 (3rd edition, 2021)](https://www.packtpub.com/en-us/product/mastering-embedded-linux-programming-9781789530384?srsltid=AfmBOopShxTIXf0JTRUWu4vDJ5kIsntNb4SIMP-SOb1GcyVRsFuSkMY6)
 - [Yocto for BeagleBone Black (2015)](https://www.packtpub.com/hardware-and-creative/yocto-beaglebone) - Short 144 pages long read specific to the BeagleBone Black.
 - [Yocto for Raspberry Pi (2016)](https://www.packtpub.com/hardware-and-creative/yocto-raspberry-pi) - Short 214 pages long read specific to the Raspberry Pi.
 
