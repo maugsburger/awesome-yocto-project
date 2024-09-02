@@ -92,6 +92,7 @@
 - [runqemu-ifup](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/runqemu-ifup) - QEMU network interface configuration script to bring up single tap device (alternative to runqemu-gen-tapdevs).
 - [send-error-report](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/send-error-report) - Sends an error report (if the report-error class was enabled) to a remote server.
 - [send-pull-request](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/send-pull-request) - Sends a patch series prepared by the create-pull-request script to Open Embedded and The Yocto Project, as well as to related projects and layers.
+- [SPDX Online Tool](https://tools.spdx.org/app/) - Upload and parse SPDX documents for validation, comparison and conversion and search SPDX license list.
 - [sstate-cache-management.sh](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/sstate-cache-management.sh) - sstate cache management utilities to e.g. remove dublicated files.
 - [sstate-diff-machines.sh](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/sstate-diff-machines.sh) - Compares sstate checksums between MACHINES.
 - [sstate-sysroot-cruft.sh](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/sstate-sysroot-cruft.sh) - Used to find files installed in sysroot which are not tracked by sstate manifest.
