@@ -188,6 +188,10 @@
 
 - [Yocto Project on Vimeo](https://vimeo.com/yoctoproject) - Playlist with very basic, short, older screencasts about workflow, toaster and hob.
 
+### Security
+
+- [Linux Kernel Self-Protection Project - Guidelines](https://www.kernel.org/doc/html/latest/security/self-protection.html)
+
 ## Trainings
 
 ### 2019
