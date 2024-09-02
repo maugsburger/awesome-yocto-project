@@ -161,6 +161,7 @@
 ### 2024
 
 - The Cyber Security Act: Navigating Its Impact on Yocto-Based Products (Embedded Open Source Summit) [video](https://www.youtube.com/watch?v=LBUkzeo7RcU)
+- The Cyber Resilience Act and Yocto based devices [video](https://www.youtube.com/watch?v=NjDXlXxPyew)
 
 ### 2023
 
