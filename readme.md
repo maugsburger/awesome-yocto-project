@@ -162,6 +162,10 @@
 
 - The Cyber Security Act: Navigating Its Impact on Yocto-Based Products (Embedded Open Source Summit) [video](https://www.youtube.com/watch?v=LBUkzeo7RcU)
 
+### 2023
+
+- Yocto Project/OpenEmbedded Meets Security (Embedded Open Source Summit) [video](https://www.youtube.com/watch?v=lcp-SwUPUR0)
+
 ### 2022
 
 - Detecting and fixing CVE security issues in yocto based embedded Linux distribution (Yocto Project Summit) [video](https://www.youtube.com/watch?v=vPc4lZ4VPuo)
