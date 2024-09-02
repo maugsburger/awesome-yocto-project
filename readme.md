@@ -157,6 +157,10 @@
 
 ## Presentations
 
+### 2024
+
+- The Cyber Security Act: Navigating Its Impact on Yocto-Based Products (Embedded Open Source Summit) [video](https://www.youtube.com/watch?v=LBUkzeo7RcU)
+
 ### 2018
 
 - Buildroot vs Yocto: Differences for Your Daily Job (Embedded Linux Conference Europe) [slides](https://elinux.org/images/9/9a/Buildroot-vs-Yocto-Differences-for-Your-Daily-Job-Luca-Ceresoli-AIM-Sportline.pdf) / [video](https://youtu.be/wCVYQWFIvBs).
