@@ -108,6 +108,7 @@
 - [wic](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/wic) - Generates bootable images.
 - [yocto-check-layer](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/yocto-check-layer) - Checks layer in a potentially contaminated environment.
 - [yocto-check-layer-wrapper](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/yocto-check-layer-wrapper) - Checks layer in a clean environment.
+- [oelint-adv](https://github.com/priv-kweihmann/oelint-adv): Linter for bitbake-recipes.
 
 ## Documentation
 
