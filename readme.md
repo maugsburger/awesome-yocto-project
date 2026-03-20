@@ -104,7 +104,7 @@
   - [dirsize.py](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/tiny/dirsize.py) - Displays details of the root filesystem size, broken up by directory.
   - [ksize.py](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/tiny/ksize.py) - Displays details of the kernel build size.
   - [ksum](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/tiny/ksum.py) - Generates a combined summary of vmlinux and module sizes for a built kernel, as a quick tool for comparing the overall effects of systemic tinification changes.
-- [verify-bashisms](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/verify-bashisms) - Verifies bash code.
+- [verify-bashisms](https://git.openembedded.org/openembedded-core/tree/scripts/verify-bashisms) - Verifies bash code.
 - [wic](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/wic) - Generates bootable images.
 - [yocto-check-layer](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/yocto-check-layer) - Checks layer in a potentially contaminated environment.
 - [yocto-check-layer-wrapper](https://git.yoctoproject.org/cgit.cgi/poky/plain/scripts/yocto-check-layer-wrapper) - Checks layer in a clean environment.
